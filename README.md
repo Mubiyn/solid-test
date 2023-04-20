@@ -6,3 +6,4 @@
 #Description
 - This app generates a random background color when you tap anywhere on the screen.
 - The state of the app is also persisted after closing the app.
+- No state management package was used.
